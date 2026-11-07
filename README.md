@@ -1,4 +1,4 @@
-# 🌿 CRAPT NGO Tracker — Official Android App Releases
+# 🌿 CRAPT Tracker — Official Android App Releases
 
 [![Latest Release](https://img.shields.io/github/v/release/rana2hin/CRAPT-NGO-App?color=059669&label=Latest%20APK)](https://github.com/rana2hin/CRAPT-NGO-App/releases/latest)
 [![Live Web Portal](https://img.shields.io/badge/Live%20Portal-crapt.vercel.app-064E3B?logo=vercel)](https://crapt.vercel.app/)
@@ -6,7 +6,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Kotlin%20%2B%20Compose-7F52FF)](https://developer.android.com/jetpack/compose)
 [![Made by StatClinix](https://img.shields.io/badge/Made%20by-StatClinix-022C22)](https://statclinix.net)
 
-Official public release repository for the **CRAPT NGO Field Worker Native Android App** — powering climate resilience, disaster action plan execution, and real-time field monitoring across **18 Unions and 162 Wards** in Sunamganj Sadar and Dowarabazar, Bangladesh.
+Official public release repository for the **CRAPT Field Worker Native Android App** — powering climate resilience, disaster action plan execution, and real-time field monitoring across **18 Unions and 162 Wards** in Sunamganj Sadar and Dowarabazar, Bangladesh.
 
 ---
 
@@ -42,7 +42,7 @@ Official public release repository for the **CRAPT NGO Field Worker Native Andro
 
 ### 🛡️ Enterprise Security & Integrity
 
-All APK releases in this repository are cryptographically signed with the official CRAPT NGO release keystore to preserve signature continuity across all versions.
+All APK releases in this repository are cryptographically signed with the official CRAPT release keystore to preserve signature continuity across all versions.
 
 ---
 
@@ -52,3 +52,4 @@ Made with care by **[StatClinix](https://statclinix.net)**
 *Empowering Climate Resilience, Public Health & Disaster Preparedness.*
 
 </div>
+
