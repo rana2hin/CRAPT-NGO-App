@@ -20,7 +20,7 @@ Official public release repository for the **CRAPT Field Worker Native Android A
 
 ### 🚀 Key Features
 
-- **🗺️ Interactive GIS Leaflet OpenStreetMap**: Interactive ward map with color-coded status pins (Done, In Progress, Pending), Bengali popups, and 1-tap progress reporting.
+- **🗺️ Native OSMDroid OpenStreetMap GIS**: Pure native vector map engine (zero WebView) with color-coded status pins (Done, In Progress, Pending), interactive floating task cards, offline tile caching, and 1-tap progress reporting.
 - **📸 Multi-Photo Evidence Capture**: Field workers can snap or select multiple progress photos simultaneously with instant compression and cloud backup.
 - **🔄 Persistent In-App Over-The-Air (OTA) Updates**: Automatically notifies workers whenever an update is published and performs seamless 1-tap in-place upgrades.
 - **🚨 Real-Time Emergency Disaster Alerts**: Audible loop siren and high-priority broadcast banners with mandatory facilitator acknowledgment.
